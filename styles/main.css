@@ -29,3 +29,35 @@ header h3 {
     font-style: italic;
     text-indent: 30px;
 }
+
+header img {
+    float:left;
+}
+.shadow {
+    text-shadow: 2px 2px 2px var(--global-color-1);
+}
+
+/*The sytles for the main section */
+
+main {
+    clear: left;
+}
+
+
+main h1{
+    font-size: 150%;
+}
+
+main h2 {
+    font-size: 130%;
+    color: var(--global-color-1);
+}
+
+main h3 {
+    font-size: 105%;
+}
+
+footer {
+    text-align: center;
+    
+}
